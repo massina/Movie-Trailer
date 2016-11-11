@@ -1,0 +1,6 @@
+{
+  "name": "Movie-trailer",
+  "tagline": "Display your favorite movies trailers",
+  "body": "# Movie-Trailer\r\nDisplay your favorite movies trailers\r\n\r\nThis is a python generator script, that's generate a static HTML web page for movies trailers.\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
